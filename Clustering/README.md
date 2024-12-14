@@ -5,7 +5,7 @@ Project Overview
 This project involves customer segmentation using clustering algorithms on a dataset containing customer demographics and behavioral attributes. The goal is to group customers into segments based on their purchasing behaviors and demographics, allowing for targeted marketing and personalized customer service.
 
 Dataset
-The dataset contains the following features:
+This project implements a machine learning model to predict labels based on textual data, utilizing various preprocessing techniques and evaluation metrics. The model leverages TensorFlow for building and training, and includes the use of a classification report for evaluating performance.
 
 CustomerID: Unique identifier for each customer
 Gender: Customer gender

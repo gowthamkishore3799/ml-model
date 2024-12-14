@@ -14,8 +14,7 @@ A brief description of your project and its purpose.
 - [License](#license)
 
 ## Introduction
-
-This project implements a machine learning model to predict labels based on textual data, utilizing various preprocessing techniques and evaluation metrics, including the classification report.
+This project implements a machine learning model to predict labels based on textual data, utilizing various preprocessing techniques and evaluation metrics. The model leverages TensorFlow for building and training, and includes the use of a classification report for evaluating performance.
 
 ## Installation
 
