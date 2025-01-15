@@ -70,4 +70,4 @@ This revision adds more details about the algorithms used in each section. If yo
 
 
 
-> **Note**: Initially, the code was maintained in a separate [repository](https://github.com/orgs/CSE-5160/repositories). It has now been consolidated here for better visibility and accessibility.
+> **Note**: Initially, the code was maintained in a local codebase. It has now been consolidated here for better visibility and accessibility.
