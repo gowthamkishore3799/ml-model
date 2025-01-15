@@ -1,6 +1,5 @@
 Here’s an updated version of your **Machine Learning Algorithms Repository** description, with more detailed information on the algorithms:
 
-Ideally the code was maintained in another repo, moved here for better visibility
 
 ---
 
@@ -68,3 +67,7 @@ Whether you're a beginner or an advanced practitioner, this repository is design
 ---
 
 This revision adds more details about the algorithms used in each section. If you need any further adjustments or additional explanations on specific algorithms, feel free to let me know!
+
+
+
+> **Note**: Initially, the code was maintained in a separate repository. It has now been consolidated here for better visibility and accessibility.
