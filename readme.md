@@ -1,5 +1,7 @@
 Here’s an updated version of your **Machine Learning Algorithms Repository** description, with more detailed information on the algorithms:
 
+Ideally the code was maintained in another repo, moved here for better visibility
+
 ---
 
 # **Machine Learning Algorithms Repository**
