@@ -66,7 +66,7 @@ Whether you're a beginner or an advanced practitioner, this repository is design
 
 ---
 
-This revision adds more details about the algorithms used in each section. If you need any further adjustments or additional explanations on specific algorithms, feel free to let me know!
+Moved the repo from here for visibility[https://github.com/CSE-5160]
 
 
 
