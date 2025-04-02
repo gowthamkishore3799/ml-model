@@ -66,7 +66,7 @@ Whether you're a beginner or an advanced practitioner, this repository is design
 
 ---
 
-Moved the repo from here for visibility[https://github.com/CSE-5160]
+Moved the repo from here for [visibility](https://github.com/CSE-5160)
 
 
 
